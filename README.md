@@ -1,7 +1,6 @@
 # Kickers
 
 👟 [Description](#description)
-👟 [Features](#features)
 👟 [Demo](#demo)
 👟 [Installation](#installation)
 👟 [Usage](#usage)
@@ -10,18 +9,6 @@
 ## Description
 
 Kickers is your ultimate destination for premium footwear. We offer a carefully curated selection of high-quality shoes that combine style, comfort, and durability. Whether you're a sneakerhead, a fashion enthusiast, or just looking for the perfect pair of shoes, Kickers has you covered.
-
-## Features
-
-👟 **Extensive Collection:** Explore a wide range of premium shoes, including sneakers, boots, loafers, and more.
-
-👟 **High-Quality Materials:** Our shoes are crafted from top-notch materials to ensure comfort and long-lasting wear.
-
-👟 **User-Friendly Interface:** Our website features an intuitive design, making it easy to find and purchase your dream shoes.
-
-👟 **Search and Filter:** Quickly find the shoes you desire by using our search and filtering options.
-
-👟 **Secure Shopping:** Rest assured with our secure payment processing for a safe shopping experience.
 
 ## Demo
 
