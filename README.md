@@ -13,11 +13,11 @@ Kickers is your ultimate destination for premium footwear. We offer a carefully 
 
 ## Features
 
-👟 **Extensive Collection:** Explore a wide range of premium shoes, including sneakers, boots, loafers, and more.
-👟 **High-Quality Materials:** Our shoes are crafted from top-notch materials to ensure comfort and long-lasting wear.
-👟 **User-Friendly Interface:** Our website features an intuitive design, making it easy to find and purchase your dream shoes.
-👟 **Search and Filter:** Quickly find the shoes you desire by using our search and filtering options.
-👟 **Secure Shopping:** Rest assured with our secure payment processing for a safe shopping experience.
+👟 -**Extensive Collection:** Explore a wide range of premium shoes, including sneakers, boots, loafers, and more.
+👟 -**High-Quality Materials:** Our shoes are crafted from top-notch materials to ensure comfort and long-lasting wear.
+👟 -**User-Friendly Interface:** Our website features an intuitive design, making it easy to find and purchase your dream shoes.
+👟 -**Search and Filter:** Quickly find the shoes you desire by using our search and filtering options.
+👟 -**Secure Shopping:** Rest assured with our secure payment processing for a safe shopping experience.
 
 ## Demo
 
