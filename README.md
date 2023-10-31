@@ -1,10 +1,10 @@
 # Kickers
 
-👟 [Description](#description)
-👟 [Demo](#demo)
-👟 [Installation](#installation)
-👟 [Usage](#usage)
-👟 [Contributing](#contributing)
+-👟 [Description](#description)
+-👟 [Demo](#demo)
+-👟 [Installation](#installation)
+-👟 [Usage](#usage)
+-👟 [Contributing](#contributing)
 
 ## Description
 
